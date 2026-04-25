@@ -1,0 +1,147 @@
+{
+  "METADATA": {
+    "designer": "Default",
+    "safe_margin_mm": 20.0
+  },
+  "FINANCEIRO": {
+    "papel_valor_rolo_total": 0.0,
+    "papel_comprimento_metros": 100.0,
+    "papel_largura_metros": 1.6,
+    "tinta_cyan_valor": 0.0,
+    "tinta_magenta_valor": 0.0,
+    "tinta_yellow_valor": 0.0,
+    "tinta_black_valor": 0.0,
+    "tinta_frasco_ml": 1000.0,
+    "consumo_tinta_m2_ml": 6.0
+  },
+  "NUMERO": {
+    "2 ANOS": {
+      "size": 10,
+      "max_width": "100mm"
+    },
+    "4 ANOS": {
+      "size": 12,
+      "max_width": "110mm"
+    },
+    "6 ANOS": {
+      "size": 13,
+      "max_width": "120mm"
+    },
+    "8 ANOS": {
+      "size": 14,
+      "max_width": "130mm"
+    },
+    "10 ANOS": {
+      "size": 15,
+      "max_width": "140mm"
+    },
+    "12 ANOS": {
+      "size": 16,
+      "max_width": "150mm"
+    },
+    "P": {
+      "size": 18,
+      "max_width": "150mm"
+    },
+    "M": {
+      "size": 20,
+      "max_width": "160mm"
+    },
+    "G": {
+      "size": 22,
+      "max_width": "170mm"
+    },
+    "GG": {
+      "size": 24,
+      "max_width": "180mm"
+    },
+    "XG": {
+      "size": 26,
+      "max_width": "190mm"
+    },
+    "XXG": {
+      "size": 28,
+      "max_width": "200mm"
+    },
+    "XXXG": {
+      "size": 30,
+      "max_width": "210mm"
+    },
+    "BL P": {
+      "size": 16,
+      "max_width": "140mm"
+    },
+    "BL M": {
+      "size": 17,
+      "max_width": "145mm"
+    },
+    "BL G": {
+      "size": 18,
+      "max_width": "150mm"
+    },
+    "BL GG": {
+      "size": 19,
+      "max_width": "155mm"
+    }
+  },
+  "NOME": {
+    "behavior": "fit_to_width",
+    "max_width": "200mm"
+  },
+  "LOGO_ESCUDO": {
+    "2 ANOS": {
+      "max_height": "45mm"
+    },
+    "4 ANOS": {
+      "max_height": "50mm"
+    },
+    "6 ANOS": {
+      "max_height": "55mm"
+    },
+    "8 ANOS": {
+      "max_height": "60mm"
+    },
+    "10 ANOS": {
+      "max_height": "65mm"
+    },
+    "12 ANOS": {
+      "max_height": "70mm"
+    },
+    "P": {
+      "max_height": "80mm"
+    },
+    "M": {
+      "max_height": "80mm"
+    },
+    "G": {
+      "max_height": "80mm"
+    },
+    "GG": {
+      "max_height": "80mm"
+    },
+    "XG": {
+      "max_height": "80mm"
+    },
+    "XXG": {
+      "max_height": "80mm"
+    },
+    "XXXG": {
+      "max_height": "80mm"
+    },
+    "BL P": {
+      "max_height": "80mm"
+    },
+    "BL M": {
+      "max_height": "80mm"
+    },
+    "BL G": {
+      "max_height": "80mm"
+    },
+    "BL GG": {
+      "max_height": "80mm"
+    }
+  },
+  "MARGEM_SEGURANCA": {
+    "type": "boundary_check"
+  }
+}
